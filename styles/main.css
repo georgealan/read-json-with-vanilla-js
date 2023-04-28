@@ -1,0 +1,78 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #161616;
+}
+
+.main {
+    height: auto;
+    width: 100vw;
+    padding: 1em;
+    display: grid;
+    gap: 1.5em;
+    grid-template-columns: repeat(4, 18vw);
+    grid-template-rows: auto;
+    justify-content: center;
+}
+
+.box-container {
+    background-color: #262626;
+    height: fit-content;
+    border-radius: 0.6em;
+    overflow: hidden;
+    color: #ffffff;
+}
+
+.text-container {
+    padding: 1em;
+}
+
+.tag {
+    background-color: #333232;
+    padding: 0.6em 1em;
+    border-radius: 5em;
+    cursor: pointer;
+    margin: 1em 0.3em;
+}
+
+.text {
+    margin: 1.2em 0;
+}
+
+.btn-boxe {
+    display: grid;
+    gap: 0.4em;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 1.5em 0 0 0;
+}
+
+.btn {
+    background-color: #333232;
+    color: #ffffff;
+    border: none;
+    width: 100%;
+    padding: 0.5em;
+    border-radius: 0.7em;
+    cursor: pointer;
+}
+
+.text-container h2 {
+    margin: 0.5em 0;
+}
+
+.img {
+    width: 100%;
+    height: auto;
+}
+
+.tags-container {
+    display: flex;
+    font-size: 0.7em;
+}

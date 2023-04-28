@@ -1,0 +1,88 @@
+{
+    "contents": [
+        {
+            "status": "Working On",
+            "title": "MockUp Mobile App",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam temporibus velit dignissimos.",
+            "tags": {
+                "tag1": "JAM Stack", 
+                "tag2": "Node JS"
+            },
+            "image": "/images/work-1.webp"
+        },
+        {
+            "status": "Incomplete",
+            "title": "Landing Page Using Tailwind CSS",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+            "tags": {
+                "tag1": "Java", 
+                "tag2": "Node JS",
+                "tag3": "Tailwind CSS"
+            },
+            "image": "/images/work-2.webp"
+        },
+        {
+            "status": "Completed",
+            "title": "Website Design Using Tailwind CSS",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam temporibus velit dignissimos.",
+            "tags": {
+                "tag1": "MERN Stack",
+                "tag2": "Node JS",
+                "tag3": "Tailwind CSS"
+            },
+            "image": "/images/work-3.webp"
+        },
+        {
+            "status": "Incomplete",
+            "title": "Landing Page With CMS",
+            "text": "Lorem amet consectetur adipisicing elit. Quisquam temporibus",
+            "tags": {
+                "tag1": "JAM Stack",
+                "tag2": "React JS"
+            },
+            "image": "/images/work-4.webp"
+        },
+        {
+            "status": "Working On",
+            "title": "MockUp Mobile App",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam temporibus velit dignissimos.",
+            "tags": {
+                "tag1": "JAM Stack", 
+                "tag2": "Node JS"
+            },
+            "image": "/images/work-5.webp"
+        },
+        {
+            "status": "Incomplete",
+            "title": "Landing Page Using Tailwind CSS",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+            "tags": {
+                "tag1": "Java", 
+                "tag2": "Node JS",
+                "tag3": "Tailwind CSS"
+            },
+            "image": "/images/work-6.webp"
+        },
+        {
+            "status": "Completed",
+            "title": "Website Design Using Tailwind CSS",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam temporibus velit dignissimos.",
+            "tags": {
+                "tag1": "MERN Stack",
+                "tag2": "Node JS",
+                "tag3": "Tailwind CSS"
+            },
+            "image": "/images/work-7.webp"
+        },
+        {
+            "status": "Incomplete",
+            "title": "Landing Page With CMS",
+            "text": "Lorem amet consectetur adipisicing elit. Quisquam temporibus",
+            "tags": {
+                "tag1": "JAM Stack",
+                "tag2": "React JS"
+            },
+            "image": "/images/work-8.webp"
+        }
+    ]
+}
